@@ -1,5 +1,5 @@
 {
-  "name": "axewbotx.github.io",
+  "name": "lovedeepsingh-07.github.io",
   "type": "module",
   "scripts": {
     "dev": "tailwindcss -i ./tailwind.css -o ./public/style.css --minify --watch"
