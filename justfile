@@ -5,4 +5,4 @@ build:
 	bun run quartz build
 
 serve:
-	bun run quartz build --serve --port=3000
+	bun run quartz build --serve
