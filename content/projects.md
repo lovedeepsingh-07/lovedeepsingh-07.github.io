@@ -1,5 +1,5 @@
 ---
-title: The Living Room | projects
+title: Projects
 ---
 
 > <a href="https://raesan.pages.dev/" target="_blank">raesan</a> - Best way to practice for exams, and evaluate your preparation for them
